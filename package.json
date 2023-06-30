@@ -25,13 +25,43 @@
     "themes": [
       {
         "label": "Bright Syntax Navy",
-        "uiTheme": "vs",
-        "path": "./themes/bright-syntax-navyv2.json"
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-black.json"
       },
       {
         "label": "Bright Syntax Navy v2",
         "uiTheme": "vs-dark",
         "path": "./themes/bright-syntax-navyv2.json"
+      },
+      {
+        "label": "Bright Syntax Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-gray.json"
+      },
+      {
+        "label": "Bright Syntax Gray v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-grayv2.json"
+      },
+      {
+        "label": "Bright Syntax Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-black.json"
+      },
+      {
+        "label": "Bright Syntax Black v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-blackv2.json"
+      },
+      {
+        "label": "Regular Syntax Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-gray.json"
+      },
+      {
+        "label": "Regular Syntax Graty v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-grayv2.json"
       }
     ]
   }
