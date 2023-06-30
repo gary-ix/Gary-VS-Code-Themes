@@ -3,7 +3,7 @@
   "displayName": "Atom Themes",
   "description": "Themes inspired from Atom ",
   "publisher": "theprogrammergary",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.12.0"
   },
