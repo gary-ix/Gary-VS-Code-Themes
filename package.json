@@ -54,9 +54,14 @@
         "path": "./themes/bright-syntax-blackv2.json"
       },
       {
-        "label": "Bright Syntax White 2",
+        "label": "Bright Syntax White",
         "uiTheme": "vs",
         "path": "./themes/bright-syntax-white.json"
+      },
+      {
+        "label": "Bright Syntax White 2",
+        "uiTheme": "vs",
+        "path": "./themes/bright-syntax-whitev2.json"
       },
       {
         "label": "Regular Syntax Gray",
