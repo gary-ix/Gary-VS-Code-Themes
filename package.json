@@ -25,8 +25,8 @@
     "themes": [
       {
         "label": "Bright Syntax Navy",
-        "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-grayv2.json"
+        "uiTheme": "vs",
+        "path": "./themes/bright-syntax-whitev2.json"
       },
       {
         "label": "Bright Syntax Navy v2",
@@ -54,14 +54,39 @@
         "path": "./themes/bright-syntax-blackv2.json"
       },
       {
+        "label": "Bright Syntax White 2",
+        "uiTheme": "vs",
+        "path": "./themes/bright-syntax-white.json"
+      },
+      {
         "label": "Regular Syntax Gray",
         "uiTheme": "vs-dark",
         "path": "./themes/regular-syntax-gray.json"
       },
       {
-        "label": "Regular Syntax Graty v2",
+        "label": "Regular Syntax Gray v2",
         "uiTheme": "vs-dark",
         "path": "./themes/regular-syntax-grayv2.json"
+      },
+      {
+        "label": "Regular Syntax Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-black.json"
+      },
+      {
+        "label": "Regular Syntax Black v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-blackv2.json"
+      },
+      {
+        "label": "Regular Syntax Navy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-navy.json"
+      },
+      {
+        "label": "Regular Syntax Navy v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-navyv2.json"
       }
     ]
   }
