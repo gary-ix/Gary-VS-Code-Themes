@@ -59,7 +59,7 @@
         "path": "./themes/bright-syntax-white.json"
       },
       {
-        "label": "Bright Syntax White 2",
+        "label": "Bright Syntax White v2",
         "uiTheme": "vs",
         "path": "./themes/bright-syntax-whitev2.json"
       },
