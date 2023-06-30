@@ -1,0 +1,38 @@
+{
+  "name": "atom-themes",
+  "displayName": "Atom Themes",
+  "description": "Themes inspired from Atom ",
+  "publisher": "theprogrammergary",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theprogrammergary/Atom-Themes.git"
+  },
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "one dark",
+    "light"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bright Syntax Navy",
+        "uiTheme": "vs",
+        "path": "./themes/bright-syntax-navyv2.json"
+      },
+      {
+        "label": "Bright Syntax Navy v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-navyv2.json"
+      }
+    ]
+  }
+}
