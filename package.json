@@ -26,7 +26,7 @@
       {
         "label": "Bright Syntax Navy",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-black.json"
+        "path": "./themes/regular-syntax-grayv2.json"
       },
       {
         "label": "Bright Syntax Navy v2",
