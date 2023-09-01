@@ -150,7 +150,7 @@
       "name": "Keyword Other Special Method",
       "scope": ["keyword.other.special-method"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -369,14 +369,14 @@
       "name": "Support Function Any Method",
       "scope": ["support.function.any-method"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
       "name": "Entity Name Function",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -390,7 +390,7 @@
       "name": "Entity Name Section",
       "scope": ["entity.name.section"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -411,7 +411,7 @@
       "name": "Entity Other Attribute Name Id",
       "scope": ["entity.other.attribute-name.id"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -453,7 +453,7 @@
       "name": "Meta Require",
       "scope": ["meta.require"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -544,7 +544,7 @@
       "name": "Markup Heading Punctuation Definition Heading",
       "scope": ["markup.heading punctuation.definition.heading"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -628,7 +628,7 @@
         "source.elixir constant.definition"
       ],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -715,7 +715,7 @@
       "name": "Source Gfm Link Entity",
       "scope": ["source.gfm link entity"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -854,7 +854,7 @@
       "name": "Ng Interpolation Begin,ng Interpolation End",
       "scope": ["ng.interpolation.begin", "ng.interpolation.end"],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -871,7 +871,7 @@
         "ng.interpolation function.end"
       ],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -1575,7 +1575,7 @@
       "name": "[VSCODE-CUSTOM] CSharp Property",
       "scope": "entity.name.variable.property.cs",
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {
@@ -1775,7 +1775,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#00aeff"
+        "foreground": "#dbdbdb"
       }
     },
     {

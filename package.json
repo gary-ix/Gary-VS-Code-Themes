@@ -3,7 +3,7 @@
   "displayName": "Atom Themes",
   "description": "Themes inspired from Atom ",
   "publisher": "theprogrammergary",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -26,7 +26,7 @@
       {
         "label": "TESTING",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-whitev2.json"
+        "path": "./themes/bright-syntax-white.json"
       },
       {
         "label": "Bright Syntax Void v2",
