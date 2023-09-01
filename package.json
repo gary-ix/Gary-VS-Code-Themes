@@ -3,7 +3,7 @@
   "displayName": "Atom Themes",
   "description": "Themes inspired from Atom ",
   "publisher": "theprogrammergary",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -24,6 +24,36 @@
   "contributes": {
     "themes": [
       {
+        "label": "Bright Syntax Void v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-voidv2.json"
+      },
+      {
+        "label": "Bright Syntax Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-void.json"
+      },
+      {
+        "label": "Bright Syntax Black v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-blackv2.json"
+      },
+      {
+        "label": "Bright Syntax Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-black.json"
+      },
+      {
+        "label": "Bright Syntax Dark Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-dark-gray.json"
+      },
+      {
+        "label": "Bright Syntax Dark Gray v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bright-syntax-dark-grayv2.json"
+      },
+      {
         "label": "Bright Syntax Navy",
         "uiTheme": "vs-dark",
         "path": "./themes/bright-syntax-navy.json"
@@ -42,16 +72,6 @@
         "label": "Bright Syntax Gray v2",
         "uiTheme": "vs-dark",
         "path": "./themes/bright-syntax-grayv2.json"
-      },
-      {
-        "label": "Bright Syntax Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-black.json"
-      },
-      {
-        "label": "Bright Syntax Black v2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-blackv2.json"
       },
       {
         "label": "Bright Syntax White",

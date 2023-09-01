@@ -87,7 +87,7 @@
       "name": "Comment",
       "scope": ["comment"],
       "settings": {
-        "foreground": "#aaabad",
+        "foreground": "#737578",
         "fontStyle": "italic"
       }
     },
@@ -95,7 +95,7 @@
       "name": "Comment Markup Link",
       "scope": ["comment markup.link"],
       "settings": {
-        "foreground": "#aaabad"
+        "foreground": "#737578"
       }
     },
     {
@@ -270,7 +270,7 @@
       "name": "Punctuation Definition Comment",
       "scope": ["punctuation.definition.comment"],
       "settings": {
-        "foreground": "#aaabad"
+        "foreground": "#737578"
       }
     },
     {
@@ -1723,7 +1723,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#aaabad",
+        "foreground": "#737578",
         "fontStyle": "italic"
       }
     },
