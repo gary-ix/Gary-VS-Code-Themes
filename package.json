@@ -90,6 +90,29 @@
       },
 
 
+
+
+
+      {
+        "label": "Regular Syntax Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-void.json"
+      },
+      {
+        "label": "Regular Syntax Void v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-voidv2.json"
+      },
+      {
+        "label": "Regular Syntax Dark Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-dark-gray.json"
+      },
+      {
+        "label": "Regular Syntax Dark Gray v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-syntax-dark-grayv2.json"
+      },
       {
         "label": "Regular Syntax Gray",
         "uiTheme": "vs-dark",
