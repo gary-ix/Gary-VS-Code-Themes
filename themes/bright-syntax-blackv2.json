@@ -100,7 +100,7 @@
       "name": "Comment",
       "scope": ["comment"],
       "settings": {
-        "foreground": "#7b7f86",
+        "foreground": "#696F7395",
         "fontStyle": "italic"
       }
     },
@@ -108,7 +108,7 @@
       "name": "Comment Markup Link",
       "scope": ["comment markup.link"],
       "settings": {
-        "foreground": "#7b7f86"
+        "foreground": "#696F7395"
       }
     },
     {
@@ -283,7 +283,7 @@
       "name": "Punctuation Definition Comment",
       "scope": ["punctuation.definition.comment"],
       "settings": {
-        "foreground": "#7b7f86"
+        "foreground": "#696F7395"
       }
     },
     {
