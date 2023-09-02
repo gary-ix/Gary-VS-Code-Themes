@@ -17,6 +17,7 @@
     "editorIndentGuide.activeBackground": "#626772",
     "editor.background": "#FAFAFA",
     "editor.foreground": "#545454",
+
     "editor.lineHighlightBackground": "#5454540C",
     "editor.selectionBackground": "#E5E5E6",
     "editorCursor.foreground": "#526FFF",
