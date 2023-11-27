@@ -1,7 +1,7 @@
 {
   "name": "atom-themes",
-  "displayName": "Atom Themes",
-  "description": "Themes inspired from Atom ",
+  "displayName": "Gary Code Themes",
+  "description": "Themes inspired various others, but with my preferences.",
   "publisher": "theprogrammergary",
   "version": "1.0.8",
   "engines": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/theprogrammergary/Atom-Themes.git"
+    "url": "https://github.com/theprogrammergary/Gary-VS-Code-Themes.git"
   },
   "keywords": [
     "atom",
