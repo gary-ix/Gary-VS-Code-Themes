@@ -1,5 +1,5 @@
 {
-  "name": "Atomic  White - alt",
+  "name": "Atomic  Warm - alt",
   "colors": {
     "activityBar.background": "#fbf1c7",
     "activityBar.foreground": "#121417",
@@ -7,12 +7,12 @@
     "editorInlayHint.foreground": "#AFB2BB",
     "notebook.cellEditorBackground": "#F5F5F5",
     "activityBarBadge.background": "#526FFF",
-    "activityBarBadge.foreground": "#FFFFFF",
+    "activityBarBadge.foreground": "#fbf1c9",
     "button.background": "#5871EF",
-    "button.foreground": "#FFFFFF",
+    "button.foreground": "#fbf1c9",
     "button.hoverBackground": "#6B83ED",
     "diffEditor.insertedTextBackground": "#00809B33",
-    "dropdown.background": "#FFFFFF",
+    "dropdown.background": "#fbf1c9",
     "dropdown.border": "#DBDBDC",
     "editorIndentGuide.activeBackground": "#626772",
     "editor.background": "#fbf1c7",
@@ -36,7 +36,7 @@
     "editorSuggestWidget.selectedBackground": "#528BFF3D",
     "editorWidget.background": "#fbf1c8",
     "editorWidget.border": "#E5E5E6",
-    "input.background": "#FFFFFF",
+    "input.background": "#fbf1c9",
     "input.border": "#DBDBDC",
     "focusBorder": "#526FFF",
     "list.activeSelectionBackground": "#DBDBDC",
@@ -64,16 +64,16 @@
     "titleBar.activeForeground": "#424243",
     "titleBar.inactiveBackground": "#fbf1c8",
     "titleBar.inactiveForeground": "#424243",
-    "statusBar.debuggingForeground": "#FFFFFF",
+    "statusBar.debuggingForeground": "#fbf1c9",
     "extensionButton.prominentBackground": "#3BBA54",
     "extensionButton.prominentHoverBackground": "#4CC263",
     "badge.background": "#526FFF",
-    "badge.foreground": "#FFFFFF",
+    "badge.foreground": "#fbf1c9",
     "peekView.border": "#526FFF",
     "peekViewResult.background": "#fbf1c8",
     "peekViewResult.selectionBackground": "#DBDBDC",
-    "peekViewTitle.background": "#FFFFFF",
-    "peekViewEditor.background": "#FFFFFF",
+    "peekViewTitle.background": "#fbf1c9",
+    "peekViewEditor.background": "#fbf1c9",
     "editorBracketHighlight.foreground1": "#010204",
     "editorBracketHighlight.foreground2": "#010204",
     "editorBracketHighlight.foreground3": "#010204",
@@ -488,7 +488,7 @@
       "name": "Invalid Illegal",
       "scope": ["invalid.illegal"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#fbf1c9"
       }
     },
     {

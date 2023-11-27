@@ -3,7 +3,7 @@
   "displayName": "Gary Code Themes",
   "description": "Themes inspired from others, but with a few twists.",
   "publisher": "theprogrammergary",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -24,11 +24,6 @@
   ],
   "contributes": {
     "themes": [
-      {
-        "label": "!TESTING",
-        "uiTheme": "vs",
-        "path": "./themes/atomic-white.json"
-      },
       {
         "label": "Atomic Void - alt",
         "uiTheme": "vs-dark",
