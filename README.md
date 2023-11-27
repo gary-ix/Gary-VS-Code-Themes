@@ -1,5 +1,3 @@
-# atom-themes README
+## Gary VS Code Themes
 
-## About
-
-Forked Atom One Dark/Light Themes by Mahmoud Ali with brighter colors and alternate editor colors
+Various Visual Studio Code themes.

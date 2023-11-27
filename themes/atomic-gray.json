@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Bright  Dark Gray v2",
+  "name": "Atomic  Gray",
   "colors": {
     "activityBar.background": "#323438",
     "activityBar.foreground": "#D7DAE0",
@@ -16,10 +16,10 @@
     "dropdown.background": "#232427",
     "dropdown.border": "#181A1F",
     "editorIndentGuide.activeBackground1": "#626772",
-    "editor.background": "#161618",
-    "editor.foreground": "#00a8f7",
+    "editor.background": "#323438",
+    "editor.foreground": "#f0f0f0",
 
-    "editor.lineHighlightBackground": "#57595e5e",
+    "editor.lineHighlightBackground": "#2324275e",
     "editor.selectionBackground": "#535761",
     "editorCursor.foreground": "#8eb4ff",
     "editor.findMatchHighlightBackground": "#528BFF3D",
@@ -57,7 +57,7 @@
     "statusBar.foreground": "#d6dbe4",
     "statusBarItem.hoverBackground": "#232427",
     "statusBar.noFolderBackground": "#232427",
-    "tab.activeBackground": "#161618",
+    "tab.activeBackground": "#323438",
     "tab.activeForeground": "#D7DAE0",
     "tab.border": "#181A1F",
     "tab.inactiveBackground": "#232427",
