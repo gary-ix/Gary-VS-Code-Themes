@@ -2,4 +2,4 @@
 
 ## About
 
-Forked Atom One Dark/Light Themes by Mahmoud Ali with brighter syntax colors and alternate editor colors
+Forked Atom One Dark/Light Themes by Mahmoud Ali with brighter colors and alternate editor colors

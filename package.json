@@ -18,130 +18,121 @@
     "one dark",
     "light"
   ],
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "TESTING",
+        "label": "Bright Void v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-black.json"
+        "path": "./themes/bright-voidv2.json"
       },
       {
-        "label": "Bright Syntax Void v2",
+        "label": "Bright Void",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-voidv2.json"
+        "path": "./themes/bright-void.json"
       },
       {
-        "label": "Bright Syntax Void",
+        "label": "Bright Black v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-void.json"
+        "path": "./themes/bright-blackv2.json"
       },
       {
-        "label": "Bright Syntax Black v2",
+        "label": "Bright Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-blackv2.json"
+        "path": "./themes/bright-black.json"
       },
       {
-        "label": "Bright Syntax Black",
+        "label": "Bright Dark Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-black.json"
+        "path": "./themes/bright-dark-gray.json"
       },
       {
-        "label": "Bright Syntax Dark Gray",
+        "label": "Bright Dark Gray v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-dark-gray.json"
+        "path": "./themes/bright-dark-grayv2.json"
       },
       {
-        "label": "Bright Syntax Dark Gray v2",
+        "label": "Bright Navy",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-dark-grayv2.json"
+        "path": "./themes/bright-navy.json"
       },
       {
-        "label": "Bright Syntax Navy",
+        "label": "Bright Navy v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-navy.json"
+        "path": "./themes/bright-navyv2.json"
       },
       {
-        "label": "Bright Syntax Navy v2",
+        "label": "Bright Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-navyv2.json"
+        "path": "./themes/bright-gray.json"
       },
       {
-        "label": "Bright Syntax Gray",
+        "label": "Bright Gray v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-gray.json"
+        "path": "./themes/bright-grayv2.json"
       },
       {
-        "label": "Bright Syntax Gray v2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/bright-syntax-grayv2.json"
-      },
-      {
-        "label": "Bright Syntax White",
+        "label": "Bright White",
         "uiTheme": "vs",
-        "path": "./themes/bright-syntax-white.json"
+        "path": "./themes/bright-white.json"
       },
       {
-        "label": "Bright Syntax White v2",
+        "label": "Bright White v2",
         "uiTheme": "vs",
-        "path": "./themes/bright-syntax-whitev2.json"
-      },
-
-
-
-
-
-      {
-        "label": "Regular Syntax Void",
-        "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-void.json"
+        "path": "./themes/bright-whitev2.json"
       },
       {
-        "label": "Regular Syntax Void v2",
+        "label": "Regular Void",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-voidv2.json"
+        "path": "./themes/regular-void.json"
       },
       {
-        "label": "Regular Syntax Dark Gray",
+        "label": "Regular Void v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-dark-gray.json"
+        "path": "./themes/regular-voidv2.json"
       },
       {
-        "label": "Regular Syntax Dark Gray v2",
+        "label": "Regular Dark Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-dark-grayv2.json"
+        "path": "./themes/regular-dark-gray.json"
       },
       {
-        "label": "Regular Syntax Gray",
+        "label": "Regular Dark Gray v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-gray.json"
+        "path": "./themes/regular-dark-grayv2.json"
       },
       {
-        "label": "Regular Syntax Gray v2",
+        "label": "Regular Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-grayv2.json"
+        "path": "./themes/regular-gray.json"
       },
       {
-        "label": "Regular Syntax Black",
+        "label": "Regular Gray v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-black.json"
+        "path": "./themes/regular-grayv2.json"
       },
       {
-        "label": "Regular Syntax Black v2",
+        "label": "Regular Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-blackv2.json"
+        "path": "./themes/regular-black.json"
       },
       {
-        "label": "Regular Syntax Navy",
+        "label": "Regular Black v2",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-navy.json"
+        "path": "./themes/regular-blackv2.json"
       },
       {
-        "label": "Regular Syntax Navy v2",
+        "label": "Regular Navy",
         "uiTheme": "vs-dark",
-        "path": "./themes/regular-syntax-navyv2.json"
+        "path": "./themes/regular-navy.json"
+      },
+      {
+        "label": "Regular Navy v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/regular-navyv2.json"
       }
     ]
   }

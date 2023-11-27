@@ -1,7 +1,7 @@
-// 
+//
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Bright Syntax Black",
+  "name": "Bright  Black",
   "colors": {
     "activityBar.background": "#232427",
     "activityBar.foreground": "#D7DAE0",
