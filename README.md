@@ -2,18 +2,18 @@
 
 Various Visual Studio Code themes.
 
-## Atomic Gray 
+## Atomic Gray
 
-![AtomicGray](https://github.com/theprogrammergary/Gary-VS-Code-Themes/blob/main/images/atomic-gray.png)
+![AtomicGray](./images/atomic-gray.png)
 
 ## Atomic Gray - Alt
 
-![AtomicGrayAlt](https://github.com/theprogrammergary/Gary-VS-Code-Themes/blob/main/images/atomic-gray-alt.png)
-## Atom Gray 
+![AtomicGrayAlt](./images/atomic-gray-alt.png)
 
-![AtomGray](https://github.com/theprogrammergary/Gary-VS-Code-Themes/blob/main/images/atom-gray.png)
+## Atom Gray
+
+![AtomGray](./images/atom-gray.png)
 
 ## Atom Gray - Alt
 
-![AtomGrayAlt](https://github.com/theprogrammergary/Gary-VS-Code-Themes/blob/main/images/atom-gray-alt.png)
-
+![AtomGrayAlt](./images/atom-gray-alt.png)

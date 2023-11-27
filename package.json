@@ -3,7 +3,7 @@
   "displayName": "Gary Code Themes",
   "description": "Themes inspired from others, but with a few twists.",
   "publisher": "theprogrammergary",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "engines": {
     "vscode": "^1.12.0"
   },
