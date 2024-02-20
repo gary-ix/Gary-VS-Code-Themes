@@ -9,11 +9,3 @@ Various Visual Studio Code themes.
 ## Atomic Gray - Alt
 
 ![AtomicGrayAlt](./images/atomic-gray-alt.png)
-
-## Atom Gray
-
-![AtomGray](./images/atom-gray.png)
-
-## Atom Gray - Alt
-
-![AtomGrayAlt](./images/atom-gray-alt.png)

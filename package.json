@@ -3,9 +3,9 @@
   "displayName": "Gary Code Themes",
   "description": "Themes inspired from others, but with a few twists.",
   "publisher": "theprogrammergary",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "engines": {
-    "vscode": "^1.12.0"
+    "vscode": "^1.45.0"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,8 @@
     "theme",
     "dark",
     "one dark",
-    "light"
+    "light",
+    "vim"
   ],
   "icon": "icon.png",
   "categories": [
@@ -25,44 +26,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Atomic Void - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atomic-void-alt.json"
+        "label": "Vim Light 1",
+        "uiTheme": "vs-light",
+        "path": "./themes/vim-light-1.json"
       },
       {
-        "label": "Atomic Void",
+        "label": "Vim Dark 1",
         "uiTheme": "vs-dark",
-        "path": "./themes/atomic-void.json"
+        "path": "./themes/vim-dark-1.json"
       },
       {
-        "label": "Atomic Black - alt",
+        "label": "Vim Dark 2",
         "uiTheme": "vs-dark",
-        "path": "./themes/atomic-black-alt.json"
+        "path": "./themes/vim-dark-2.json"
       },
       {
-        "label": "Atomic Black",
+        "label": "Vim Dark 3",
         "uiTheme": "vs-dark",
-        "path": "./themes/atomic-black.json"
-      },
-      {
-        "label": "Atomic Dark Gray",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atomic-dark-gray.json"
-      },
-      {
-        "label": "Atomic Dark Gray - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atomic-dark-gray-alt.json"
-      },
-      {
-        "label": "Atomic Navy",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atomic-navy.json"
-      },
-      {
-        "label": "Atomic Navy - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atomic-navy-alt.json"
+        "path": "./themes/vim-dark-3.json"
       },
       {
         "label": "Atomic Gray",
@@ -73,76 +54,6 @@
         "label": "Atomic Gray - alt",
         "uiTheme": "vs-dark",
         "path": "./themes/atomic-gray-alt.json"
-      },
-      {
-        "label": "Atomic White",
-        "uiTheme": "vs",
-        "path": "./themes/atomic-white.json"
-      },
-      {
-        "label": "Atomic White - alt",
-        "uiTheme": "vs",
-        "path": "./themes/atomic-white-alt.json"
-      },
-      {
-        "label": "Atomic Warm",
-        "uiTheme": "vs",
-        "path": "./themes/atomic-warm.json"
-      },
-      {
-        "label": "Atomic Warm - alt",
-        "uiTheme": "vs",
-        "path": "./themes/atomic-warm-alt.json"
-      },
-      {
-        "label": "Atom Void",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-void.json"
-      },
-      {
-        "label": "Atom Void - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-void-alt.json"
-      },
-      {
-        "label": "Atom Dark Gray",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-dark-gray.json"
-      },
-      {
-        "label": "Atom Dark Gray - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-dark-gray-alt.json"
-      },
-      {
-        "label": "Atom Gray",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-gray.json"
-      },
-      {
-        "label": "Atom Gray - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-gray-alt.json"
-      },
-      {
-        "label": "Atom Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-black.json"
-      },
-      {
-        "label": "Atom Black - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-black-alt.json"
-      },
-      {
-        "label": "Atom Navy",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-navy.json"
-      },
-      {
-        "label": "Atom Navy - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-navy-alt.json"
       }
     ]
   }
