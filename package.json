@@ -3,7 +3,7 @@
   "displayName": "Gary Code Themes",
   "description": "Themes inspired from others, but with a few twists.",
   "publisher": "theprogrammergary",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "engines": {
     "vscode": "^1.45.0"
   },
@@ -26,8 +26,18 @@
   "contributes": {
     "themes": [
       {
+        "label": "Vim Light 3",
+        "uiTheme": "vs",
+        "path": "./themes/vim-light-3.json"
+      },
+      {
+        "label": "Vim Light 2",
+        "uiTheme": "vs",
+        "path": "./themes/vim-light-2.json"
+      },
+      {
         "label": "Vim Light 1",
-        "uiTheme": "vs-light",
+        "uiTheme": "vs",
         "path": "./themes/vim-light-1.json"
       },
       {
@@ -44,6 +54,11 @@
         "label": "Vim Dark 3",
         "uiTheme": "vs-dark",
         "path": "./themes/vim-dark-3.json"
+      },
+      {
+        "label": "Vim Dark 4",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vim-dark-4.json"
       },
       {
         "label": "Atomic Gray",
