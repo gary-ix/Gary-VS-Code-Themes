@@ -1,75 +1,115 @@
 {
-  "name": "atom-themes",
-  "displayName": "Gary Code Themes",
-  "description": "Themes inspired from others, but with a few twists.",
-  "publisher": "theprogrammergary",
-  "version": "2.1.4",
-  "engines": {
-    "vscode": "^1.45.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/theprogrammergary/Gary-VS-Code-Themes.git"
-  },
-  "keywords": [
-    "atom",
-    "theme",
-    "dark",
-    "one dark",
-    "light",
-    "vim"
-  ],
-  "icon": "icon.png",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Vim Light 3",
-        "uiTheme": "vs",
-        "path": "./themes/vim-light-3.json"
-      },
-      {
-        "label": "Vim Light 2",
-        "uiTheme": "vs",
-        "path": "./themes/vim-light-2.json"
-      },
-      {
-        "label": "Vim Light 1",
-        "uiTheme": "vs",
-        "path": "./themes/vim-light-1.json"
-      },
-      {
-        "label": "Vim Dark 1",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vim-dark-1.json"
-      },
-      {
-        "label": "Vim Dark 2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vim-dark-2.json"
-      },
-      {
-        "label": "Vim Dark 3",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vim-dark-3.json"
-      },
-      {
-        "label": "Vim Dark 4",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vim-dark-4.json"
-      },
-      {
-        "label": "Atomic Gray",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atomic-gray.json"
-      },
-      {
-        "label": "Atomic Gray - alt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atomic-gray-alt.json"
-      }
-    ]
-  }
+	"name": "atom-themes",
+	"displayName": "Gary Code Themes",
+	"description": "Themes inspired from others, but with a few twists.",
+	"publisher": "gary-ix",
+	"version": "2.1.9",
+	"engines": {
+		"vscode": "^1.45.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gary-ix/Gary-VS-Code-Themes.git"
+	},
+	"keywords": [
+		"atom",
+		"theme",
+		"dark",
+		"one dark",
+		"gruvbox",
+		"light",
+		"vim"
+	],
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Vim Dark 5b",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-5b.json"
+			},
+			{
+				"label": "Vim Dark 5",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-5.json"
+			},
+			{
+				"label": "Vim Dark 4b",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-4b.json"
+			},
+			{
+				"label": "Vim Light 3b",
+				"uiTheme": "vs",
+				"path": "./themes/vim-light-3b.json"
+			},
+			{
+				"label": "Vim Light 3",
+				"uiTheme": "vs",
+				"path": "./themes/vim-light-3.json"
+			},
+			{
+				"label": "Vim Light 2",
+				"uiTheme": "vs",
+				"path": "./themes/vim-light-2.json"
+			},
+			{
+				"label": "Vim Light 1",
+				"uiTheme": "vs",
+				"path": "./themes/vim-light-1.json"
+			},
+			{
+				"label": "Vim Dark 1",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-1.json"
+			},
+			{
+				"label": "Vim Dark 1b",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-1b.json"
+			},
+			{
+				"label": "Vim Dark 2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-2.json"
+			},
+			{
+				"label": "Vim Dark 3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-3.json"
+			},
+			{
+				"label": "Vim Dark 4",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vim-dark-4.json"
+			},
+			{
+				"label": "Atomic Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/atomic-gray.json"
+			},
+			{
+				"label": "Atomic Gray - alt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/atomic-gray-alt.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "dedaafbd-ef32-4526-a878-d0cb8ed99c81",
+		"publisherId": "1b42aca5-6f70-4c44-9072-448bad4db0e2",
+		"publisherDisplayName": "theprogrammergary",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1728605126523,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 2197692
+	}
 }
